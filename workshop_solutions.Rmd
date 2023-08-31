@@ -1,0 +1,33 @@
+---
+title: "Practice basic setup"
+author: "Puning Wang u7079510"
+date: "31/08/2023"
+output:  
+    html_document:
+        toc: true
+        toc_depth: 4
+        theme: cosmo
+        number_sections: false
+        toc_float: true
+        highlight: pygments
+        fig_width: 8
+        fig_height: 4
+---
+
+# **Task 1**: Loading the data
+
+### **Tasks**
+
+### **Challenge Task**
+
+# **Task 2**: Null Hypothesis Significance Testing
+
+### **Tasks**
+
+### **Challenge Task**
+
+# **Task 3**: Exploratory Data Analysis
+
+### **Tasks**
+
+### **Challenge Task**
